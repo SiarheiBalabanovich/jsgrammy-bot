@@ -46,6 +46,3 @@ The bot will start listening for updates using long-polling. Ensure your machine
 2. Create a new branch for your feature or fix.
 3. Commit your changes with a clear description.
 4. Open a Pull Request.
-
-## 📜 License
- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
