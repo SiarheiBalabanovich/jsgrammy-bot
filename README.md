@@ -1,6 +1,6 @@
 # GrammyJS Bot 🤖
 
-### GrammyJS Bot is a Telegram bot built using grammY, a lightweight and modern framework for developing Telegram bots. This bot demonstrates basic functionalities and can be easily extended for any purpose.
+### GrammyJS Bot is a Telegram bot built using [grammY](https://grammy.dev/), a lightweight and modern framework for developing Telegram bots. This bot demonstrates basic functionalities and can be easily extended for any purpose.
 
 ## 📋 Features
 * Implemented commands:
@@ -48,6 +48,4 @@ The bot will start listening for updates using long-polling. Ensure your machine
 4. Open a Pull Request.
 
 ## 📜 License
- This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
+ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
